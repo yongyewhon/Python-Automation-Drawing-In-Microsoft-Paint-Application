@@ -31,7 +31,3 @@ Tips
 
 Examples from screen recorder
 
-[screen-recorder-wed-mar-20-2024-11-38-13.webm](https://github.com/yongyewhon/Python-Automation-Drawing-In-Microsoft-Paint-Application/assets/151745867/ea23b2ca-a201-4259-860f-ac9118d184c0)
-[screen-recorder-wed-mar-20-2024-11-39-59.webm](https://github.com/yongyewhon/Python-Automation-Drawing-In-Microsoft-Paint-Application/assets/151745867/bdba6fea-267f-4f86-b20b-bc2731a11dc3)
-[screen-recorder-wed-mar-20-2024-11-43-29.webm](https://github.com/yongyewhon/Python-Automation-Drawing-In-Microsoft-Paint-Application/assets/151745867/50aa01e0-cc20-4952-b694-6bda217abff5)
-[screen-recorder-wed-mar-20-2024-11-45-21.webm](https://github.com/yongyewhon/Python-Automation-Drawing-In-Microsoft-Paint-Application/assets/151745867/bfed71f7-adf6-49dd-9e83-1dd782443fad)
