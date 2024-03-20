@@ -30,6 +30,4 @@ Tips
 
 
 Examples
-[screen-recorder-wed-mar-20-2024-10-12-48.webm](https://github.com/yongyewhon/Python-Automation-Drawing-In-Microsoft-Paint-Application/assets/151745867/dc200fdb-5190-45c7-beaf-4b9c4bb78182)
 
-[screen-recorder-wed-mar-20-2024-10-48-50.webm](https://github.com/yongyewhon/Python-Automation-Drawing-In-Microsoft-Paint-Application/assets/151745867/b15feeee-9f50-416e-92f8-c8efdf59a185)
