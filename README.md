@@ -26,7 +26,7 @@ Steps
 
 Tips
 - Take the mouse pointer to upper-left corner of the screen to stop GUI-Automation (Activating Failsafe feature of pyautogui)
-- May require to change pyautogui.PAUSE to Specify to take a pause (in second) between every function call for GUI-Automation
+- May require to change pyautogui.PAUSE to specify to take a pause (in second) between every function call for GUI-Automation
 
 
 Examples from screen recorder
