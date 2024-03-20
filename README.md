@@ -16,7 +16,7 @@ Steps
 2. Change the image path from code line 13 
 3. Run python auto-paint.py
 4. Load the image, convert it to grayscale and threshold
-5. Find contours, draw contours and save the graysacle image into ./Samples
+5. Find contours, draw contours on white background and save the graysacle image into ./Samples
 6. Show desktop and AppOpener to launch MS-Paint
 7. Maximize Microsoft Paint window, check the active window to ensure the MS-Paint is on top
 8. Load coordinates from contours, click and drag to draw and check the active window
