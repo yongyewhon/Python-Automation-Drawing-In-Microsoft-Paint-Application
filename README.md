@@ -19,9 +19,10 @@ Steps
 5. Find contours, draw contours on white background and save the graysacle image into ./Samples
 6. Show desktop and AppOpener to launch MS-Paint
 7. Maximize MS-Paint window, check the active window to ensure the MS-Paint is on top
-8. Load coordinates from contours, click and drag to draw line and check the active window
-9. Save the sketch into ./Output and exit MS-Paint
-10. Move the mouse cursor to the center of screen
+8. Load coordinates from contours, click and drag to join all the continuous points
+9. Check the active window to ensure the MS-Paint is on top, quit if no MS-Paint
+10. Save the sketch into ./Output and exit MS-Paint
+11. Move the mouse cursor to the center of screen
 
 
 Tips
